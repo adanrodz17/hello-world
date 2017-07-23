@@ -1,2 +1,5 @@
 # hello-world
-practice
+
+Hello world!
+
+This is a practice run
